@@ -1,6 +1,7 @@
 ## Programmieren mit Scratch
 
 Auf dieser Seite
+[als Worddatei](./dies ist ein Testdokument.docx)
 
 You can use the [editor on GitHub](https://github.com/programmierenmitscratch/programmierenmitscratch.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
