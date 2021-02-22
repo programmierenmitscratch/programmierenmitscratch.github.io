@@ -8,7 +8,7 @@ Das Lehrmittel beinhaltet eine strukturierte und aufgabenorientierte Einführung
 
 Das Projekt darf kostenlos genutzt werden. Als rechtliche Grundlage dient die Creative Common Lizenz CC-BY. 
 
-![Scratch](/Programmierenmitscratch.jpg)
+![Scratch](/scratch.png)
 
 
 
