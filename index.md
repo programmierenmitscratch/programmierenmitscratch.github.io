@@ -15,5 +15,6 @@ Das Projekt darf kostenlos genutzt werden. Als rechtliche Grundlage dient die Cr
 ![Scratch](/scratch.png)
 
 Bei Fragen oder Rückmeldungen können Sie mich [per Mail](mailto:sarah.kruesi@outlook.com) erreichen. 
+
 Sarah Krüsi
 
